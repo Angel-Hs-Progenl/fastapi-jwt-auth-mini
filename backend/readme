@@ -1,0 +1,9 @@
+FastAPI Auth Mini App
+
+A minimal full-stack authentication system built with FastAPI, featuring JWT-based authentication and secure password hashing.
+
+- User registration and login
+- JWT authentication
+- Password hashing (secure storage)
+- FastAPI backend
+- Simple and clean project structure
